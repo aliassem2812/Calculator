@@ -1,7 +1,7 @@
 # Calculator Project in C++
 
 ## Overview
-The Calculator project, developed by Ali Haydar$, is a simple yet effective command-line calculator implemented in C++. It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+The Calculator project, developed by Ali Haydar, is a simple yet effective command-line calculator implemented in C++. It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 ## Features
 - Basic arithmetic operations: Addition (+), Subtraction (-), Multiplication (*), and Division (/).
